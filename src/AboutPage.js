@@ -9,7 +9,7 @@ var AboutPage = React.createClass({
 				<div className="frame">
 					<img src="img/profile.jpg" alt="profile" />
 				</div>
-				<div className="description">
+				<div className="aboutme">
 					<h1>About Me</h1>
 					<p>Hi there! My name is Christy Lu. I'm a sophomore at the University of Washington majoring in Informatics. 
 					I'm also an officer of TYAPN(Taiwanese Youth Alliance of Pacific West), working hard to connect students and professionals. 

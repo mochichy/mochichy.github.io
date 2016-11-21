@@ -9,10 +9,12 @@ var App = React.createClass({
 
 	render(){
 
+
+
 		return(
 			<div className="App">
 				<div className="name">
-					<h1>Christy Lu</h1>
+					<h2>Christy Lu</h2>
 				</div>
 				<div className="navbar">
 					<Link className="link" activeClassName="active" to="/">Home</Link>

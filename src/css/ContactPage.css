@@ -1,0 +1,35 @@
+.contact img{
+	height: 200px;
+	width: 250px;
+	border: none;
+	margin-left: 42%;
+	margin-top: 10px;
+}
+
+.contact h2 {
+	font-size: 40px;
+	text-align: center;
+	margin: 0;
+	font-family: monospace;
+	color: #44C2BC;
+	font-weight: bold;
+}
+
+.contact p {
+	text-align: center;
+	font-size: 18px;
+} 
+
+.icon img {
+	width: 48px;
+	height: 48px;
+	margin-left: 20px;
+}
+
+.icon {
+	padding-left: 42%;
+}
+
+.contactme {
+	padding-top: 10px;
+}
