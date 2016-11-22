@@ -31,7 +31,7 @@ var ProjectsPage = React.createClass({
 											<p>{d.description}</p>
 										</div>
 										<div className="col l6 s8 photo">
-											<img src={d.img} alt="img" />	
+											<a href={d.url} target="_blank"><img src={d.img} alt="img" /></a>
 										</div>
 										<div className="col l2 s4 moreinfo">
 											<h4>Date</h4>
