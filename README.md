@@ -11,7 +11,7 @@
 3. Did you receive help from any other sources (classmates, etc.)? If so, please list who.
 
 	I received help from w3schools, learning modules on github, stack overflow, MDN, and http://tamarisk.it/.
-	I used the CSS sample online for my <hr> element. The url: https://codepen.io/ibrahimjabbari/pen/ozinB
+	I used the CSS sample online for my hr element. The url: https://codepen.io/ibrahimjabbari/pen/ozinB
 
 
 4. Approximately how many hours did it take you to complete this challenge?
