@@ -39,6 +39,8 @@ var ProjectsPage = React.createClass({
 
 											<h4>Made with</h4>
 											<p>{d.using}</p>
+
+											<a href={d.url} target="_blank">Link to the website</a>
 										</div>
 									</div>
 									<div className="row">
