@@ -14,7 +14,7 @@ var AboutPage = React.createClass({
 					<p>Hi there! My name is Christy Lu. I'm a junior at the University of Washington majoring in Informatics. 
 					I'm also a help desk consultant at UW-IT Learning Techonologies, working hard to provide software support and maintain harwdware. 
 					Technology accesibility and developement are my dream fileds and I want to make lives of people using technology better!</p>
-					<p>Please see my resume <a href="https://drive.google.com/file/d/0B56be1tVjhCAMkY0LVZzNXU4bTQ/view?usp=sharing" target="_blank"> HERE</a></p>
+					<p>Please see my resume <a href="https://drive.google.com/file/d/0B56be1tVjhCAbTdySVpZV3FrN00/view?usp=sharing" target="_blank"> HERE</a></p>
 				</div>
 			</div>
 		);
