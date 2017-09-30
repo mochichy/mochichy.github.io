@@ -6,11 +6,10 @@ import './css/App.css';
 
 
 var App = React.createClass({
-
+	getInitialState(){
+		return{name:""}
+	},
 	render(){
-
-
-
 		return(
 			<div className="App">
 				<div className="name">
