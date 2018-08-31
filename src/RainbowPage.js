@@ -15,7 +15,7 @@ var RainbowPage = React.createClass({
         return (
 
             <div className="something">
-            	<p>Having a bad day? Write some rainbow words to cheer yourself up!</p>
+            	<p>Having a bad day? Type some rainbow words to cheer yourself up!</p>
                 <input onChange={this.update} placeholder="type something..." />
                 <br/> 
                 <text>{this.state.text}</text>

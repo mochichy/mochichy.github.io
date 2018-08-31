@@ -25,6 +25,8 @@ text {
 .something p {
   margin-top: 50px;
 	text-align: center;
+	font-family: Menlo;
+
 }
 
 .intro {

@@ -6,7 +6,6 @@ var ContactPage = React.createClass({
 		return(
 			<div className="contact">
 				<img src="img/contact.png" alt="paper-plane"/>
-				<h2>CONTACT</h2>
 				<div className="contactme">
 					<p>hyl9@uw.edu | 626-215-9650</p>
 				</div>

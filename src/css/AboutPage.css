@@ -24,12 +24,14 @@ img {
 }
 
 .aboutme h1 {
-	font-family: geotica-w01-four-open,fantasy;
 	margin-bottom: 5px;
 	font-size: 30px;
+	font-weight: 20;
+	font-family: Herculanum;
+
 }
 
 .aboutme p {
 	margin-top: 0;
-	font-family: Trebuchet MS;
+	font-weight: 300;
 }

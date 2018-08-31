@@ -11,10 +11,10 @@ var AboutPage = React.createClass({
 				</div>
 				<div className="aboutme">
 					<h1>About Me</h1>
-					<p>Hi there! My name is Christy Lu. I'm a junior at the University of Washington majoring in Informatics. 
+					<p>Hi there! My name is Christy Lu. I'm a senior at the University of Washington majoring in Informatics. 
 					I'm also a help desk consultant at UW-IT Learning Techonologies, working hard to provide software support and maintain harwdware. 
 					Technology accesibility and developement are my dream fileds and I want to make lives of people using technology better!</p>
-					<p>Please see my resume <a href="https://drive.google.com/file/d/0B56be1tVjhCAbTdySVpZV3FrN00/view?usp=sharing" target="_blank"> HERE</a></p>
+					<p>Please see my resume <a href="https://www.dropbox.com/s/5tupicp4zh69g5a/ChristyLu-Resume.pdf?dl=0" target="_blank"> HERE</a></p>
 				</div>
 			</div>
 		);
